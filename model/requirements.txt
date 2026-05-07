@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+joblib
+numpy
+pandas
+scikit-learn
+requests
+beautifulsoup4
+tldextract
+python-whois
+validators
+notebook
+jupyterlab
+ipykernel
+matplotlib
+seaborn
